@@ -36,12 +36,12 @@ It was created as part of a university data analysis course, with the goal of re
 This project helped me dive deep into SQL design, query logic, and data modeling. It was also my first real-world implementation of a self-taught skill — and it inspired me to pursue a future in **data analytics**.
 
 ## 👥 Team Credits
-- **SQL & DB Architecture**: [Your Name]
+- **SQL & DB Architecture**: Stefan Adrian Radut
 - **Methodology & Documentation**: Teammates
 - **ER Diagram & Visuals**: Teammates
 
 ## 📷 Screenshots
-*(Add screenshots of your schema or ER diagram if possible)*
+*<img width="983" height="807" alt="image" src="https://github.com/user-attachments/assets/a3c21256-82eb-4dd4-990d-03d1753eaa79" />*
 
 ## 🔗 LinkedIn Post
 [Share your story and link here]
