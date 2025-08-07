@@ -41,6 +41,7 @@ This project helped me dive deep into SQL design, query logic, and data modeling
 - **ER Diagram & Visuals**: Teammates
 
 ## 📷 Screenshots
+ER_diagram.png
 *<img width="983" height="807" alt="image" src="https://github.com/user-attachments/assets/a3c21256-82eb-4dd4-990d-03d1753eaa79" />*
 
 ## 🔗 LinkedIn Post
