@@ -7,7 +7,7 @@ It was created as part of a university data analysis course, with the goal of re
 
 ## 🧱 Technologies
 - **Database**: MySQL
-- **Tools**: MySQL Workbench / phpMyAdmin / CLI
+- **Tools**: MySQL Workbench 
 - **Language**: SQL
 
 ## 📂 Main Features
@@ -45,7 +45,7 @@ ER_diagram.png
 *<img width="983" height="807" alt="image" src="https://github.com/user-attachments/assets/a3c21256-82eb-4dd4-990d-03d1753eaa79" />*
 
 ## 🔗 LinkedIn Post
-[Share your story and link here]
+https://www.linkedin.com/posts/%C8%99tefan-adrian-r%C4%83du%C8%9B-009647287_github-radutstefanrefugee-registry-mysql-activity-7359280572260589569-Zqty?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEWvK0kBkZkLcW0PFyJ9ielZWRRYKEkuuJc
 
 ---
 
